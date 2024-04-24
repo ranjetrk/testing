@@ -1,5 +1,5 @@
 <?php
-// Ranjet Project New
+// MVC Basic template
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
